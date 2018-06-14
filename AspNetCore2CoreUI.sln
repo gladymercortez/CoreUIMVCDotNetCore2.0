@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2228E092-C443-47FE-BDFF-D3781ABE804C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreUI.Mvc", "src\CoreUI.Mvc\CoreUI.Mvc.csproj", "{5E5CC1C2-9F26-4463-914B-C8FA14985318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreUI.Mvc", "src\CoreUI.Mvc\CoreUI.Mvc.csproj", "{5E5CC1C2-9F26-4463-914B-C8FA14985318}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
